@@ -66,6 +66,14 @@ ul, ol, dl {
   font-family: $body-font-family;
 }
 
+ul.photo-gallery {
+	columns: 3;
+	list-style-type: none;
+	margin: 0px;
+	padding-left: 0px;
+	}
+
+
 ol li {
   margin-top: 1rem;
   margin-bottom: 1rem;
