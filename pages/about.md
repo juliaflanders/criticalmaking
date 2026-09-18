@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+I'm a fiber practitioner with intensive interests in spinning, weaving, dyeing, and knitting (and as much crocheting as I need to get by). In my day job, I have equally intensive interests in data modeling, digital publishing, digital scholarly editing, and other areas of digital humanities. I teach digital humanities at Northeastern University and also direct the Digital Scholarship Group in the Northeastern University Library.
