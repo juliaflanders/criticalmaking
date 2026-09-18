@@ -70,7 +70,7 @@ ul.photo-gallery {
 	columns: 3;
 	list-style-type: none;
 	margin: 0px;
-	padding: 3px;
+	padding: 0px;
 	}
 
 
@@ -83,6 +83,12 @@ ol li {
 li {
   margin-bottom: 1rem;
 }
+
+ul.photo-gallery > li {
+  margin-bottom: 1rem;
+  padding: 3rem;
+}
+
 
 dt {
   font-weight: bold;
