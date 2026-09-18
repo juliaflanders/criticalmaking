@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Fiber',  url: 'fiber'}
-- {name: 'Spinning', url: 'spinning'}
-- {name: 'Weaving',       url: 'weaving'}
+- {name: 'Textiles',  url: 'textiles'}
+- {name: 'Gallery', url: 'gallery'}
+- {name: 'Log',       url: 'log'}
 - {name: 'About',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -23,6 +23,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Related...'
 
 post_date_prefix: 'Written on'
