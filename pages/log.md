@@ -5,7 +5,7 @@ permalink: /log/
     
 images:
 
-  - image_path: assets/img/spun_yarn_coopworth.jpg
+  - image_path: /assets/img/spun_yarn_coopworth.jpg
     title: Coopworth Knobbly (Coopworth)
     desc: One of my first spinning efforts, and the first fleece I ever bought. The fiber preparation and the spinning are very uneven and the fleece itself was all sorts of different shades of brown and grey, so the resulting yarn is all over the place.
     weight: 1229
