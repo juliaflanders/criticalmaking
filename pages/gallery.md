@@ -3,33 +3,33 @@ layout: page
 title: Gallery
 permalink: /gallery/
 images:
-  - image_path: assets/img/dyed_fiber_blue-yellow.jpeg
+  - image_path: ../assets/img/dyed_fiber_blue-yellow.jpeg
     title: Dyed fiber (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/dyed_fiber_foster_blues.jpeg
+  - image_path: ../assets/img/dyed_fiber_foster_blues.jpeg
     title: Dyed fiber (Blue-faced Leicester/Cormo cross, hand-dyed)
-  - image_path: assets/img/dyed_fiber_field_flowers.jpeg
+  - image_path: ../assets/img/dyed_fiber_field_flowers.jpeg
     title: Dyed fiber (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/dyed_fiber_maine_day.jpeg
+  - image_path: ../assets/img/dyed_fiber_maine_day.jpeg
     title: Dyed fiber (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/unplied_singles_field_flowers.jpeg
+  - image_path: ../assets/img/unplied_singles_field_flowers.jpeg
     title: Unplied singles (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/unplied_singles_foster_blues.jpeg
+  - image_path: ../assets/img/unplied_singles_foster_blues.jpeg
     title: Unplied singles (Blue-faced Leicester/Cormo cross, hand-dyed)
-  - image_path: assets/img/spun_yarn_foster_blues.jpeg
+  - image_path: ../assets/img/spun_yarn_foster_blues.jpeg
     title: Spun yarn (Blue-faced Leicester/Cormo cross, hand-dyed)
-  - image_path: assets/img/spun_yarn_deep_water.jpeg
+  - image_path: ../assets/img/spun_yarn_deep_water.jpeg
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/spun_yarn_fog_forest.jpeg
+  - image_path: ../assets/img/spun_yarn_fog_forest.jpeg
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/spun_yarn_field_flowers.jpeg
+  - image_path: ../assets/img/spun_yarn_field_flowers.jpeg
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/spun_yarn_field_flowers2.jpeg
+  - image_path: ../assets/img/spun_yarn_field_flowers2.jpeg
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/spun_yarn_maine_day.jpeg
+  - image_path: ../assets/img/spun_yarn_maine_day.jpeg
     title: Spun yarn (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/spun_yarns1.jpeg
+  - image_path: ../assets/img/spun_yarns1.jpeg
     title: Spun yarns (Merino and/or Columbia, hand-dyed)
-  - image_path: assets/img/spun_yarn_casis_single2.jpeg
+  - image_path: ../assets/img/spun_yarn_casis_single2.jpeg
     title: Spun yarns (Rambouillet and mohair, commercially-dyed)
     
     
