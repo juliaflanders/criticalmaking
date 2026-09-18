@@ -9,7 +9,7 @@ Several months ago I was given a large bale of brightly colored fiber for spinni
 
 It's rare (for me at least!) to have this much dyed roving. To put this in perspective, a typical sweater or small blanket might weigh a pound or two. It was tempting to spin it all the same way, but this was also an unusual opportunity to try several different approaches while still ending up with a substantial amount of each type of yarn.
 
-![A skein of 2-ply yarn](/assets/img/spun_yarn_cassis_plied.jpeg)
+![A skein of 2-ply yarn](../assets/img/spun_yarn_cassis_plied.jpeg)
 
 The first approach I tried was a standard 2-ply yarn: I spun two fairly fine strands and then plied them together to make a stronger yarn. As the photo above shows, each strand contains many different colors mixed together, and the plied result thus contains even more color variety: the yarn looks speckled and the colors average out to some extent over the length of the skein. The brightness of the magenta is still there, but muted by the other colors, and the blues are almost indistinguishable. I like this yarn a lot and it's strong and usable for a wide range of projects: a sweater, a blanket, a (somewhat scratchy) scarf, a pillow. I measured this yarn at about 1300 yards per pound on average, which is equivalent to a light worsted weight commercial yarn—something you might use for an everyday sweater. 
 
