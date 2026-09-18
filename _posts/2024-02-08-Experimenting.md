@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Experimenting
-category: [fiber, spinning]
+category: textiles
+tags: [fiber, spinning]
 image: spun_yarn_cassis.jpeg
 ---
 

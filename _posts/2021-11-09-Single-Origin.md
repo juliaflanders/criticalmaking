@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Single Origin
-category: [fiber, scale]
+category: textiles
+tags: [fiber, scale]
 image: wool_icelandic.jpeg
 ---
 
