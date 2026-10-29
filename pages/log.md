@@ -324,8 +324,8 @@ images:
 
 <img src="../assets/img/viz.svg" width="1100px"/>
 
-Here is another way of looking at the data: as a timeline showing the periodicity and scale of my various spinning efforts:
-
+Here is another way of looking at the data: as a timeline showing the periodicity and scale of my various spinning efforts, using [StoryLine](https://storyline.knightlab.com/):
+<!-- source Google sheet at https://docs.google.com/spreadsheets/d/1XGKKUGhyjDfC2nUH0cAGN96KryYdgwGuv98NuV2SC9Q/edit?gid=518754737#gid=518754737; regenerate StoryLine timeline at https://storyline.knightlab.com/#make-step-1 -->
 <iframe src="https://cdn.knightlab.com/libs/storyline/latest/embed/index.html?dataURL=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vS5KVLT21witReZuGwtKNfh2oEoGv_2t_4rQkcpnRvoZHhturmzSpMOjncOgYli4W3n57dNUB-wKLqA%2Fpubhtml&amp;dataYCol=yards&amp;dataXCol=date&amp;dataDateFormat=%25Y-%25m-%25d&amp;chartDateFormat=%25Y-%25m-%25d&amp;chartYLabel=yards&amp;sliderCardTitleCol=title&amp;sliderCardTextCol=text" style="width:100%;height:650px;" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0"></iframe>
 
 <p>This table shows a log of my yarn production. <!--The columns are sortable (just click on the heading and then on the little sort triangle).--></p>
