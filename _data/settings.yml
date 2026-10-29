@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Textiles',  url: 'textiles'}
+- {name: 'Topics',  url: 'topics'}
 - {name: 'Gallery', url: 'gallery'}
 - {name: 'Log',       url: 'log'}
 - {name: 'About',              url: 'about'}
